@@ -16,4 +16,4 @@ delrel | *'id of origin entity of the rel'*   *'id of destination entity of the 
 report | -
 end | -
 
-report give in output the list of existing relations and for each show the entity/ies with the max number of that relation with other entities
+The command *report* gives in output the list of existing relations and for each show the entity/ies with the max number of that relation with other entities
