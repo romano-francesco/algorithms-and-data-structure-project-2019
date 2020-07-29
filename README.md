@@ -11,8 +11,8 @@ Command | input
 ------------ | -------------
 addent | *id of entity to add*
 delent | *id of entity to delete*
-addrel | *id of origin entity* *id of destination entity* *id of relation to create*
-delrel | *id of origin entity of the rel* *id of destination entity of the rel* *id of the rel*
+addrel | *id of origin entity*  *id of destination entity*   *id of relation to create*
+delrel | *id of origin entity of the rel*   *id of destination entity of the rel*   *id of the rel*
 report | -
 end | -
 
