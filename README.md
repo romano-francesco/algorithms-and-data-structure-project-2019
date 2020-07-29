@@ -5,7 +5,7 @@ The project consists in a handler system that tracks multiple types of relations
 
 ## User commands
 
-Once launched the program, users can give the following inputs:
+Once launched the program, users can give the following commands and inputs:
 
 Command | input
 ------------ | -------------
