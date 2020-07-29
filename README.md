@@ -1,4 +1,4 @@
-# Alghoritms and data structure project 2019
+# Algoritms and data structure project 2019
 
 Final examination of the algorithms course at Politecnico di Milano.
 The project consists in a handler system that tracks multiple types of relations between entities, it is designed to optimize both time and space complexity and it passes all the constraints tests given. Reb-Black trees and dynamic lists are implemented and used to manipulate and memorize the informations, C language is used to have full control of the code and data structures.
